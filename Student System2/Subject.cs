@@ -21,7 +21,6 @@ namespace Student_System2
         {
             this.SubjectName = subjectName;
             this.Grade = grade;
-
         }
     }
 }
